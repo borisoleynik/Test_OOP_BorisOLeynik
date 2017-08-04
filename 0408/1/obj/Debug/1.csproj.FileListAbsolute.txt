@@ -1,0 +1,6 @@
+D:\Boris\0408\0408\1\bin\Debug\1.exe.config
+D:\Boris\0408\0408\1\bin\Debug\1.exe
+D:\Boris\0408\0408\1\bin\Debug\1.pdb
+D:\Boris\0408\0408\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+D:\Boris\0408\0408\1\obj\Debug\1.exe
+D:\Boris\0408\0408\1\obj\Debug\1.pdb
